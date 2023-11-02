@@ -4,7 +4,7 @@ This is a mini DBMS mini project in the domain of data analytics , where we anal
 Firstly the WalmartSalesData.csv.csv the data that we are going to use here and it represent the original data
 Secondly inside the project folder we have generated another file named modified_sales_data.csv where we have added some new columns (metrics) which can be helpful for our analysis.
 
-# Steps to replicate this project
+# Steps used to create this project
 1. Firstly start your mysql server and connect your mysql workbench to it
 2. Then we have to create a table having columns to store all data present in the .csv file (here we add a not null constraint to all the columns for simplicity)
 3. After this you execute the queries in the .sql file inside (here at start we certain columns which can be useful to gather some insights)
